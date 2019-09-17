@@ -1,5 +1,5 @@
 body {
-  background-image: "spikey_background.png";
+  background-image: url("spikey_background.png");
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 }
 
 .topnav a {
-  float: center;
+  float: none;
   display: block;
   color: #f2f2f2;
   text-align: center;
