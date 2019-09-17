@@ -3,21 +3,6 @@ body {
   background-color: #292b31;
   }
   
-  #rc_logo {
-   left: 30px;
-   padding: 22px;
-   position: absolute;
-   color: #fff;
-   font-size: 19px;
-   font-family: Poppins;
-   text-decoration: none;
-  }
-  
-  #rc_logo a { 
-  color: inherit; 
-  text-decoration: none;
-  } 
-  
   .rc_nav {
     overflow: hidden;
     background-color: #363841;
@@ -31,7 +16,6 @@ body {
    color: #fff;
    padding: 22px 22px;
    text-decoration: none;
-   font-family: Poppins;
    font-size: 18px;
    -webkit-transition: background 0.3s linear;
    -moz-transition: background 0.3s linear;
@@ -42,8 +26,8 @@ body {
   }
   
   .rc_nav a:hover {
-    background-color: #575b69;
-    color: whitesmoke;
+    background-color: rgb(218, 218, 218);
+    color:  #363841;
   }
   
   .rc_nav .icon {
@@ -53,7 +37,6 @@ body {
   .rc_content {
     text-align: center; 
     padding-left:14px; 
-    font-family: Poppins; 
     margin-top: 100px;  
     color: #8e909b;
   }
