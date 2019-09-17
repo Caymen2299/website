@@ -14,9 +14,9 @@ body {
    display: inline-block;
    margin-right: -4px;  /* inline-block gap fix */
    color: #fff;
-   padding: 22px 22px;
+   padding: 30px 30px;
    text-decoration: none;
-   font-size: 18px;
+   font-size: 16px;
    -webkit-transition: background 0.3s linear;
    -moz-transition: background 0.3s linear;
    -ms-transition: background 0.3s linear;
