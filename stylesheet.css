@@ -12,6 +12,7 @@ body {
   
   .rc_nav a {
    display: inline-block;
+   background-color: aquamarine;
    margin-right: -4px;  /* inline-block gap fix */
    color: #fff;
    padding: 22px 30px;
