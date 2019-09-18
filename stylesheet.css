@@ -6,10 +6,6 @@ body {
   color: whitesmoke;
 }
 
-.navbar-nav > li .nav-item .active{
-  color: blue;
-} 
-
 .navbar-nav {
   float:none;
   margin:0 auto;
