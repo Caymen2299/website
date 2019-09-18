@@ -6,6 +6,10 @@ body {
   color: whitesmoke;
 }
 
+.navbar-dark {
+  background-color:#111;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #111;
