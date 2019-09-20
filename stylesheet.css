@@ -6,8 +6,31 @@ body {
   color: whitesmoke;
 }
 
+.card{
+  margin-top: 16px;
+  margin-right:0px;
+}
+
 .navbar-dark {
   background-color:#222;
+  font-size: 14px;
+}
+
+a.navbar-brand{
+  font-size: 16px;
+}
+
+.navbar-expand-lg{
+  padding: 6px 16px;
+}
+
+a.nav-link:hover{
+  background-color: cornflowerblue;
+}
+
+.navbar a{
+  color: white !important;
+  padding: 8px 24px!important;
 }
 
 @media only screen and (min-width: 950px) {
@@ -21,5 +44,9 @@ body {
   .navbar-nav > li {
     display: inline-block;
     float:none;
+  }
+
+  a.navbar-brand{
+    position: absolute;
   }
 }
