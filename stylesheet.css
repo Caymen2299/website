@@ -6,13 +6,52 @@ body {
   color: whitesmoke;
 }
 
+.contact-list{
+  padding-left: 5% !important;
+  padding-bottom: 5% !important;
+  padding-right: 5% !important;
+  padding-top: 2% !important;
+  font-size: 16px !important;
+}
+
+.contact-card{
+  margin-top: 8% !important;
+  margin-bottom: 6% !important;
+}
+
+.card-img-resume{
+  padding-top: 10px !important;
+  padding-right: 40px !important;
+  padding-left: 40px !important;
+  padding-bottom: 40px !important;
+}
+
+.contact-header{
+  font-size: 36px !important;
+  padding-top:3% !important;
+  padding-bottom: 3% !important;
+  padding-left: 3% !important;
+}
+
+.contact-header{
+  font-size: 36px !important;
+  padding-top:3% !important;
+  padding-left: 3% !important;
+}
+
+.card-img{
+  margin-left: 2px;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+
 .home-text{
   margin-left: 20px !important;
   margin-bottom: 25px !important;
 }
 
 .home-title{
-  margin-top: 20px !important;
+  margin-top: 8px !important;
   margin-bottom: 30px !important;
   margin-left: 20px !important; 
 }
