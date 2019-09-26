@@ -15,7 +15,7 @@ body {
 }
 
 .card-header-resume{
-  margin-top: 11% !important;
+  margin-top: 8% !important;
   margin-bottom: 8% !important;
 }
 
@@ -38,10 +38,15 @@ body {
   padding-left: 3% !important;
 }
 
-.contact-header{
-  font-size: 36px !important;
-  padding-top:3% !important;
-  padding-left: 3% !important;
+
+.card-header-project{
+  padding-bottom: 2% !important;
+  text-align: center !important;
+}
+
+.card-title-project{
+  padding-left: 0% !important;
+  padding-bottom:1% !important; 
 }
 
 .card-img{
