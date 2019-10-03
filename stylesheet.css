@@ -19,6 +19,10 @@ body {
   margin-bottom: 8% !important;
 }
 
+.home-image{
+  margin-right: 20px;
+}
+
 .contact-card{
   margin-top: 8% !important;
   margin-bottom: 6% !important;
@@ -32,6 +36,7 @@ body {
 }
 
 .contact-header{
+  text-align: center;
   font-size: 36px !important;
   padding-top:3% !important;
   padding-bottom: 3% !important;
@@ -61,6 +66,8 @@ body {
 }
 
 .home-title{
+  font-size: 36px;
+  
   margin-top: 8px !important;
   margin-bottom: 30px !important;
   margin-left: 20px !important; 
