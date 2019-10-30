@@ -100,6 +100,17 @@ a.nav-link:hover{
   padding: 10px 24px!important;
 }
 
+
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
+
+
 @media only screen and (min-width: 950px) {
   .navbar-nav {
     float:none;
